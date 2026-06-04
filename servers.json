@@ -11,7 +11,6 @@
     "downloadsDisabled": true,
     "pinned": true
   },
-  
   {
     "name": "2.2 Unlocked",
     "link": "https://smjs.eu/gd/unlock/database/dashboard/",
@@ -41,5 +40,14 @@
       "getGJScores20": "getGJScores",
       "getGJComments21": "getGJComments"
     }
+  },
+  {
+    "id": "rtxd",
+    "name": "RTXD GDPS",
+    "endpoint": "https://rtxd.ps.fhgdps.com/",
+    "description": "Check out the official RTXD Private Server levels, leaderboards, and accounts!",
+    "author": "YourName",
+    "link": "https://rtxd.ps.fhgdps.com/",
+    "disabled": ["gauntlets", "mappacks"]
   }
 ]
